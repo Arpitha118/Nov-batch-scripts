@@ -24,3 +24,6 @@ console.log(true && true)// true
 console.log(true || false)// true
 console.log(!true)// false
 
+// Ternary Operator
+console.log(10 == '10' ? 'Equal by value' : 'not equal by value');
+
