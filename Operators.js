@@ -18,3 +18,9 @@ console.log(10 == 10);//true
 console.log(10 === '10');//false
 console.log(10 === 10);//true
 
+
+//Logical && || and !
+console.log(true && true)// true
+console.log(true || false)// true
+console.log(!true)// false
+
