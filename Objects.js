@@ -20,3 +20,6 @@ const s1 = {
     Percentage: ['Sem-I 84','Sem-II 86','Sem-III 88'],
     Performance: ()=>console.log('Good',)
 }
+//console.log(s1, typeof s1);
+console.log(s1.Name, s1.Age, s1.Fees_paid);
+console.log("Marks of Maths:",s1.Marks.Maths);
